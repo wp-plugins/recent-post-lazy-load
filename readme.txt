@@ -1,5 +1,5 @@
 === Recent Post Lazy Load  ===
-Contributors: contact4sajid
+Contributors: sksdev
 Donate link: http://sksphpdev.com/plugins/
 Tags: shortcodes, shortcode, thumbnails, thumb, thumbs, thumbnail, featured images, featured, image, images, recent posts, widgets, widget
 Requires at least: 3.6
